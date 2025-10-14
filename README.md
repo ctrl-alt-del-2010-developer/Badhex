@@ -34,7 +34,7 @@ Terminalde aşağıdaki komutları kullanabilirsiniz:
 - `clear` : Ekranı temizler
 - `exit` : Programdan çıkar
 - `ddos` : DDOS aracı menüsünü açar
-- `menu` : Ana menüyü gösterir
+- `reboot` : Sistemi Yeniden Başlatır
 - `help` : Yardım menüsünü gösterir
 
 ## Ekran Görüntüsü
