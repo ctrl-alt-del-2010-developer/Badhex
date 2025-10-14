@@ -39,7 +39,7 @@ Terminalde aşağıdaki komutları kullanabilirsiniz:
 
 ## Ekran Görüntüsü
 
-![Badhex Terminal](https://raw.githubusercontent.com/ctrl-alt-del-2010-developer/Badhex/main/badhex-screenshot.png
+![Badhex Terminal](https://raw.githubusercontent.com/ctrl-alt-del-2010-developer/Badhex/blob/main/Screenshot_2025-10-14_18_13_16.png
 
 ## Katkı Sağlama
 
