@@ -39,14 +39,10 @@ Terminalde aşağıdaki komutları kullanabilirsiniz:
 
 ## Ekran Görüntüsü
 
-![Badhex Terminal](https://github.com/ctrl-alt-del-2010-developer/Badhex/blob/main/Screenshot_2025-10-14_18_13_16.png
+![Badhex Terminal](https://github.com/ctrl-alt-del-2010-developer/Badhex/blob/main/Screenshot_2025-10-14_18_13_16.png)
 ## Katkı Sağlama
 
 Katkı sağlamak için lütfen bir pull request gönderin veya issue açın.
-
-## Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
 
 ---
 
