@@ -46,11 +46,11 @@ def vip_input(yazi, bekleme=0.02):
     return input()  # kullanıcıdan giriş al ve geriye döndürs
 
 os.system("clear")
-vip("Rest in peace my dog, Bobo...")
+vip("Loading...")
 time.sleep(2)
 os.system("clear")
 print(f"{RED}{BOLD}" + ascii_banner + f"{RESET}")
-vip(f"{GREEN}Version:{RESET} 0.3 (Beta)")
+vip(f"{GREEN}Version:{RESET} 1.0.4")
 print("")   
 
 while True:
