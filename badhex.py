@@ -46,7 +46,9 @@ def vip_input(yazi, bekleme=0.02):
     return input()  # kullanıcıdan giriş al ve geriye döndürs
 
 os.system("clear")
-vip("Loading...")
+print("               Loading...")
+print("")
+vip("⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿")
 time.sleep(2)
 os.system("clear")
 print(f"{RED}{BOLD}" + ascii_banner + f"{RESET}")
