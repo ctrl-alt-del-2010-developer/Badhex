@@ -58,7 +58,7 @@ while True:
    cevap = vip_input(f"{RED}└─${RESET} ")
    if cevap == "clear":
        os.system(cevap)
-   elif cevap == "undertale"
+   elif cevap == "undertale":
        os.system("cat ascii.txt")
    elif cevap == "exit":
        break
