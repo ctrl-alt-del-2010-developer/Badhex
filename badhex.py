@@ -70,6 +70,8 @@ while True:
        print(help_text) 
    elif cevap == "":
        continue
+   elif cevap == "petagotchi":
+       python3 petagotchi.py
    elif cevap == "reboot":
         os.system(cevap)
    elif cevap == "bangin ballz my man":
