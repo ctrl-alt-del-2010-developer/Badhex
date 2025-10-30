@@ -71,7 +71,7 @@ while True:
    elif cevap == "":
        continue
    elif cevap == "petagotchi":
-       os.system("python3 "Petagotchi.py")
+       os.system("python3 Petagotchi.py")
    elif cevap == "reboot":
         os.system(cevap)
    elif cevap == "bangin ballz my man":
